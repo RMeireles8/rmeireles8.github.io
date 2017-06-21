@@ -70,9 +70,9 @@
     </div>
   </div>
 </nav>
-<div id="#sobre" class="container-fluid bg-1 text-center">
+<div class="container-fluid bg-1 text-center">
   <h3>Veja meus projetos em Scratch </h3>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Scratch_cat_large.png" class="img-rounded" alt="Rodney lataria" width="150" height="150">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Scratch_cat_large.png" class="img-rounded" alt="my scratch" width="150" height="150">
   <br><br><a href="https://scratch.mit.edu/mystuff/">clique aqui!</a>
 </div>
 
